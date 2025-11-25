@@ -2,6 +2,18 @@
 
 /* 共有部分
 -------------------------------*/
+.page-title,
+.heading-large{
+    font-size: 3rem;
+    text-align: center;
+}
+.page-title{
+    margin-top: 2rem;
+    line-height: 1.4;
+}
+.heading-large{
+    margin-bottom: 1rem;
+}
 
 html{
     font-size: 100%;
@@ -67,4 +79,13 @@ img{
 }
 .main-nav a:hover{
     color: #0bd;
+}
+
+.about{
+    max-width: 736px;
+    padding: 0 1.5rem;
+    margin: 3rem auto 0;
+}
+.about{
+    margin-bottom: 3rem;
 }
