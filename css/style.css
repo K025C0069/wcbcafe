@@ -27,6 +27,25 @@ img{
 .font-english{
     font-family: 'Philosoher',sans-serif;
     font-weight: normal;
+    font-family: "Gravitas One", serif;
+    font-weight: 400;
+    font-style: normal;
+
+
+}
+.page-title{
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 2rem;
+    line-height: 1.4;
+}
+.cover{
+    background-size: cover;
+    background-position: center bottom;
+    height: 800px;
+}
+.cover-home{
+    background-image: url(../images/cover-home-s.webp);
 }
 /*ヘッダー
 -----------------------------------*/
